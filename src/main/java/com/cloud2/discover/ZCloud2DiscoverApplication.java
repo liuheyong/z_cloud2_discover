@@ -12,5 +12,4 @@ public class ZCloud2DiscoverApplication {
         new SpringApplicationBuilder(ZCloud2DiscoverApplication.class).web(true).run(args);
     }
 
-
 }
